@@ -1,4 +1,4 @@
 # C/C++ Practice
 
-This Repository Includes My C/C++ Code I Created For Practice Purposes
+This Repository Includes My C Code I Created For Practice Purposes
 
