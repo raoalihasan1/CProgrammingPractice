@@ -18,7 +18,7 @@ int main(int argc, char *argv[])
   }
 
   if(sep != 1 || argc == 1){
-    printf("[ERROR] Incorrect Format Of Elements! Look At the Method Below Usage: %s <list1> - <list2>\n", argv[0]);
+    printf("[ERROR] Incorrect Format Of Elements! Look At the Method Below\n Usage: %s <list1> - <list2>\n", argv[0]);
     return 1;
   }
 
